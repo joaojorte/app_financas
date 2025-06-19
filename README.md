@@ -21,10 +21,10 @@ INFORMES: rendimentos bancários por instituição financeira
 NOTAS: registros mensais de entrada (salários, pró-labores, etc.)
 
 # Como Usar
-1° Abra o arquivo Excel app_financas.xlsx.
-2° Preencha os dados nas seções conforme solicitado.
-3° Navegue pelas abas usando os botões interativos.
-4° Exporte ou utilize os dados como base para preencher sua declaração no sistema da Receita Federal.
+1. Abra o arquivo Excel app_financas.xlsx.
+2. Preencha os dados nas seções conforme solicitado.
+3. Navegue pelas abas usando os botões interativos.
+4. Exporte ou utilize os dados como base para preencher sua declaração no sistema da Receita Federal.
 
 ## Autor
 Desenvolvido por João Jorte no contexto de automações financeiras e organização fiscal.
